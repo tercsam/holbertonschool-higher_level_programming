@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-"define two intergers A and B"
+"""
+define two integers, A and B
+"""
 
 
 def add_integer(a, b=98):
