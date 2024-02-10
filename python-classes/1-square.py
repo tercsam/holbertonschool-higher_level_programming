@@ -7,3 +7,5 @@ class Square:
     def __init__(self, size):
         "initalize square using pirvate attribute size as args"
         self.__size = size
+
+    pass
