@@ -1,15 +1,9 @@
 #!/usr/bin/python3
-""" 1-create an empty class
-    2-add a public instance method
-    3-add another public method
-"""
+"""An empty class"""
 
 
 class BaseGeometry:
-    """ 1-empty class
-        2-raise an Exception:
-        3-add def integer_validator(self, name, value):
-    """
+    """An empty class"""
     def area(self):
         raise Exception("area() is not implemented")
 
